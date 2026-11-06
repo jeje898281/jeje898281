@@ -22,7 +22,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
       <b>CommuCloud</b><br>
       Runs condominium owners' meetings: QR check-in, QR ballots and live quorum tracking by headcount and floor area. Multi-tenant and role-based, with email notices sent through a job queue.<br>
       <sub>Express · PostgreSQL · Prisma · Redis · BullMQ · React · Docker</sub><br>
-      <sub><a href="https://github.com/jeje898281/community-app-backend">backend</a> · <a href="https://github.com/jeje898281/community-app-frontend">frontend</a> · <a href="https://github.com/jeje898281/community-app-infra">infra</a></sub>
+      <sub><a href="https://github.com/jeje898281/commucloud">source</a></sub>
     </td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
       <b>CommuCloud</b><br>
       社區區分所有權人會議系統：QR Code 報到、QR 選票表決，並依出席戶數與坪數比例即時計算是否達法定門檻。支援多社區與角色權限，會議通知透過工作佇列寄送。<br>
       <sub>Express · PostgreSQL · Prisma · Redis · BullMQ · React · Docker</sub><br>
-      <sub><a href="https://github.com/jeje898281/community-app-backend">後端</a> · <a href="https://github.com/jeje898281/community-app-frontend">前端</a> · <a href="https://github.com/jeje898281/community-app-infra">部署</a></sub>
+      <sub><a href="https://github.com/jeje898281/commucloud">原始碼</a></sub>
     </td>
   </tr>
   <tr>
