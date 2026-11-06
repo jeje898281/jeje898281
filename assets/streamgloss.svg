@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- StreamGloss：聲波轉成字幕 -->
+  <rect width="64" height="64" rx="14" fill="#4b3fae"/>
+  <g fill="#ffffff">
+    <rect x="17.5" y="21" width="3.5" height="8" rx="1.75"/>
+    <rect x="24.5" y="16" width="3.5" height="18" rx="1.75"/>
+    <rect x="31.5" y="12" width="3.5" height="26" rx="1.75"/>
+    <rect x="38.5" y="17.5" width="3.5" height="15" rx="1.75"/>
+    <rect x="45.5" y="21.5" width="3.5" height="7" rx="1.75"/>
+  </g>
+  <rect x="14" y="43" width="36" height="5" rx="2.5" fill="#ffffff"/>
+  <rect x="21" y="51" width="22" height="4" rx="2" fill="#ffffff" opacity="0.55"/>
+</svg>

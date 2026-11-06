@@ -17,7 +17,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
 
 <table>
   <tr>
-    <td width="72" valign="top"><img src="https://raw.githubusercontent.com/jeje898281/personal-website/main/site/assets/projects/commucloud.svg" width="56" alt="CommuCloud"></td>
+    <td width="72" valign="top"><img src="assets/commucloud.svg" width="56" alt="CommuCloud"></td>
     <td valign="top">
       <b>CommuCloud</b><br>
       Runs condominium owners' meetings: QR check-in, QR ballots and live quorum tracking by headcount and floor area. Multi-tenant and role-based, with email notices sent through a job queue.<br>
@@ -26,7 +26,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jeje898281/personal-website/main/site/assets/projects/streamgloss.svg" width="56" alt="StreamGloss"></td>
+    <td valign="top"><img src="assets/streamgloss.svg" width="56" alt="StreamGloss"></td>
     <td valign="top">
       <b>StreamGloss</b><br>
       Live Traditional Chinese subtitles for English streams, fully offline: voice activity detection, Whisper transcription and LLM translation in a threaded pipeline.<br>
@@ -35,7 +35,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jeje898281/personal-website/main/site/assets/projects/trip.svg" width="56" alt="TripMate"></td>
+    <td valign="top"><img src="assets/trip.svg" width="56" alt="TripMate"></td>
     <td valign="top">
       <b>TripMate</b><br>
       A LINE group bot that answers questions about a shared trip — next stop, transport, reservations — grounded in a verified itinerary.<br>
@@ -43,7 +43,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jeje898281/personal-website/main/site/assets/projects/tamori.png" width="56" alt="Tamori"></td>
+    <td valign="top"><img src="assets/tamori.png" width="56" alt="Tamori"></td>
     <td valign="top">
       <b>Tamori</b><br>
       A spaced-repetition vocabulary app that imports Anki decks and runs as a PWA on the phone.<br>
@@ -51,7 +51,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jeje898281/personal-website/main/site/assets/projects/ptt.svg" width="56" alt="PTT Danmaku"></td>
+    <td valign="top"><img src="assets/ptt.svg" width="56" alt="PTT Danmaku"></td>
     <td valign="top">
       <b>PTT Danmaku</b><br>
       Shows the latest PTT comments as scrolling overlays on top of a live stream.<br>
@@ -81,7 +81,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
 
 <table>
   <tr>
-    <td width="72" valign="top"><img src="https://raw.githubusercontent.com/jeje898281/personal-website/main/site/assets/projects/commucloud.svg" width="56" alt="CommuCloud"></td>
+    <td width="72" valign="top"><img src="assets/commucloud.svg" width="56" alt="CommuCloud"></td>
     <td valign="top">
       <b>CommuCloud</b><br>
       社區區分所有權人會議系統：QR Code 報到、QR 選票表決，並依出席戶數與坪數比例即時計算是否達法定門檻。支援多社區與角色權限，會議通知透過工作佇列寄送。<br>
@@ -90,7 +90,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jeje898281/personal-website/main/site/assets/projects/streamgloss.svg" width="56" alt="StreamGloss"></td>
+    <td valign="top"><img src="assets/streamgloss.svg" width="56" alt="StreamGloss"></td>
     <td valign="top">
       <b>StreamGloss</b><br>
       英文直播即時中文字幕，全程離線執行：語音偵測、Whisper 語音辨識與 LLM 翻譯以多執行緒管線串接。<br>
@@ -99,7 +99,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jeje898281/personal-website/main/site/assets/projects/trip.svg" width="56" alt="TripMate"></td>
+    <td valign="top"><img src="assets/trip.svg" width="56" alt="TripMate"></td>
     <td valign="top">
       <b>TripMate</b><br>
       LINE 群組旅遊助理，依查證過的行程資料回答下一站、交通與預約時間等問題。<br>
@@ -107,7 +107,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jeje898281/personal-website/main/site/assets/projects/tamori.png" width="56" alt="Tamori"></td>
+    <td valign="top"><img src="assets/tamori.png" width="56" alt="Tamori"></td>
     <td valign="top">
       <b>Tamori</b><br>
       依遺忘曲線安排複習的背單字 PWA，支援匯入 Anki 牌組。<br>
@@ -115,7 +115,7 @@ Software engineer working on a SaaS platform for aesthetic medicine clinics, mos
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jeje898281/personal-website/main/site/assets/projects/ptt.svg" width="56" alt="PTT 彈幕"></td>
+    <td valign="top"><img src="assets/ptt.svg" width="56" alt="PTT 彈幕"></td>
     <td valign="top">
       <b>PTT 彈幕</b><br>
       將 PTT 文章最新推文以彈幕形式疊加於直播畫面。<br>
